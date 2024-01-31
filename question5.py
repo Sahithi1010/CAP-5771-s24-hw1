@@ -1,10 +1,12 @@
 def question5_1():
+
     answer = {
-            'bin1': [1,2,3,4,5]
+            'bin1': [1,2,3,4,5],
             'bin2': [6,7,8],
             'bin3': [9]
     }
     #where di, ei, fi are integers. 
+    
     return answer
 
 def question5_2():
@@ -13,7 +15,6 @@ def question5_2():
             'bin2': [4,5,6],
             'bin3': [7,8,9]
     }
-    #where di, ei, fi are integers. 
     return answer
 
 def question5_3():
@@ -22,5 +23,4 @@ def question5_3():
             'bin2': [2,3,4],
             'bin3': [8,9]
     }
-    #where di, ei, fi are integers. 
-    return answer 
+    return answer
