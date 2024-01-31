@@ -1,9 +1,9 @@
 def question4_1():
-    answer = ['Nominal', 'Ordinal']
+    answer = ['Nominal', 'Nominal']
     return answer
 
 def question4_2():
-    answer = ['Ratio', 'Ordinal']
+    answer = ['Ordinal', 'Ratio']
     return answer
 
 def question4_3():
