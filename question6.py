@@ -1,26 +1,22 @@
-def question5_1():
+def question6_1():
 
     answer = {
-            'bin1': [1,2,3,4,5],
-            'bin2': [6,7,8],
-            'bin3': [9]
+        'equal_width': ['No change', 3],
+        'equal_frequency': ['No change', 3]
     }
-    #where di, ei, fi are integers. 
     
     return answer
 
-def question5_2():
+def question6_2():
     answer = {
-            'bin1': [1,2,3],
-            'bin2': [4,5,6],
-            'bin3': [7,8,9]
+        'equal_width': ['No change', 7],
+        'equal_frequency': ['No change', 9]
     }
     return answer
 
-def question5_3():
+def question6_3():
     answer = {
-            'bin1': [1,5,6,7],
-            'bin2': [2,3,4],
-            'bin3': [8,9]
+        'equal_width': ['change',2],
+        'equal_frequency': ['No change',9]
     }
     return answer
